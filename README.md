@@ -1,41 +1,28 @@
 # UGA-CAID-Open-Source
 
-Simple overview of use/purpose.
-
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This is the code repository of the Cortical Architecture Imaging and Discovery (CAID) Lab at the University of Georgia. 
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* Python
+* Nvidia Drivers (GPUs are typically required for our code)
+* In addition, please follow the requirements of each individual project
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+* Please follow the requirements of each individual project
 
 ## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+Please contact Dr. Tianming Liu (tliu@uga.edu) or Zhengliang Liu (zl18864@uga.edu) for more information. 
 
 ## Authors
 
-Contributors names and contact info
+The CAID Team 
 
 ex. Dominique Pizzie  
 ex. [@DomPizzie](https://twitter.com/dompizzie)
@@ -43,8 +30,7 @@ ex. [@DomPizzie](https://twitter.com/dompizzie)
 ## Version History
 
 * 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
+    * Updates
 * 0.1
     * Initial Release
 
