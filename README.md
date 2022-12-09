@@ -24,9 +24,6 @@ Please contact Dr. Tianming Liu (tliu@uga.edu) or Zhengliang Liu (zl18864@uga.ed
 
 The CAID Team 
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
 ## Version History
 
 * 0.2
